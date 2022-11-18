@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstv048//)](https://www.linkedin.com/in/gstv048/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrique27sc@gmail.com)](mailto:gustavohenrique27sc@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>    
@@ -70,7 +70,7 @@
   <a href="#" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>    
   </a>
-</p>
+</p> -->
 <P>
 <p disabled align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
