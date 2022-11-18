@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Gustavo Henrique Dos Santos</h1>
+<h1 align="center">Hi! 👋, I Am Gustavo Henrique Dos Santos</h1>
 
 <!-- <img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif"> -->
 
@@ -13,7 +13,7 @@
 :briefcase: Currently working at Ydeal Tecnologia
 
 
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gstv048)](https://github.com/gstv048)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstv048//)](https://www.linkedin.com/in/gstv048/)
