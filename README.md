@@ -2,10 +2,10 @@
 
 <!-- <img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif"> -->
 
-<p disabled align="left"> 
+<!-- <p disabled align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
   <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
-</p>
+</p> -->
 
 <!-- ## I'm Gustavo Henrique Dos Santos! -->
 :computer: Systems Developer,
