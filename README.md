@@ -71,9 +71,8 @@
   </a>
 </p>
 
+<h3 align="left">Wakatime Statistics:</h3>
 
-<P>
 <p disabled align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
 </p>
-</P>
