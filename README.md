@@ -12,14 +12,13 @@
 
 :briefcase: Currently working at Ydeal Tecnologia
 
-<img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
-
-
 ## About Me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gstv048)](https://github.com/gstv048)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstv048//)](https://www.linkedin.com/in/gstv048/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrique27sc@gmail.com)](mailto:gustavohenrique27sc@gmail.com)
+<img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
