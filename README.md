@@ -12,7 +12,7 @@
 
 :briefcase: Currently working at Ydeal Tecnologia
 
-:department_store: Co-Founder Infotecnologia Comercio e Serviço
+:department_store: Co-Founder Infotecnologia Comercio e Serviços
 
 ## About Me
 
