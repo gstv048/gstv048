@@ -64,11 +64,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>    
   </a>
 </p>
-
+<!-- 
 <h3 align="left">Wakatime Statistics:</h3>
 
 <p disabled align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
-</p>
+</p> -->
 
 ![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg)
