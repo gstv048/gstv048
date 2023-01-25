@@ -71,4 +71,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
 </p> -->
 
-![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.gif)
