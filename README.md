@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, I Am Gustavo Henrique Dos Santos</h1>
+<h1 align="center">Hi! 👋, I Am Gustavo Henrique</h1>
 
 <!-- <img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif"> -->
 
