@@ -79,5 +79,5 @@
 
 <h3 align="left">8 Bit</h3>
 
-<img href="https://i.gifer.com/1ILH.gif](https://w0.peakpx.com/wallpaper/146/568/HD-wallpaper-space-invaders-space-invaders-games-8-bit-minimalism-minimalist-dark-black.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://w0.peakpx.com/wallpaper/146/568/HD-wallpaper-space-invaders-space-invaders-games-8-bit-minimalism-minimalist-dark-black.jpg"  width="500" height="600">
 
