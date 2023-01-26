@@ -79,6 +79,6 @@
 
 <h3 align="left">8 Bit</h3>
 
-src="https://i.gifer.com/1ILH.gif"
+<img src="https://i.gifer.com/1ILH.gif"</img>
 
 
