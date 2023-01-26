@@ -76,3 +76,9 @@
 <h3 align="left">Snake Commit:</h3>
 
 ![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg)
+
+<h3 align="left">8 Bit</h3>
+
+src="https://i.gifer.com/1ILH.gif"
+
+
