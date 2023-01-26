@@ -77,7 +77,6 @@
 
 ![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="left">8 Bit</h3>
 
-<img src="https://w0.peakpx.com/wallpaper/146/568/HD-wallpaper-space-invaders-space-invaders-games-8-bit-minimalism-minimalist-dark-black.jpg"  width="500" height="600">
+<img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="500">
 
