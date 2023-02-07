@@ -65,13 +65,13 @@
   </a>
 </p>
 
-<h3 align="left">Wakatime Statistics:</h3>
+<!-- <h3 align="left">Wakatime Statistics:</h3>
 
 <div class="col-md-3">
 <p disabled align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
 </p>
-</div>
+</div> -->
 
 <h3 align="left">Snake Commit:</h3>
 
