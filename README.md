@@ -68,7 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>    
   </a>
     <a href="https://www.adobe.com/" target="_blank"> 
-      <img src="https://w7.pngwing.com/pngs/213/165/png-transparent-adobe-logo-logos-xd-logos-and-brands-icon-thumbnail.png" alt="xd" width="40" height="40"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/800px-Photoshop_CC_icon.png" alt="photoshop" width="40" height="40"/> 
     </a>
 </p>
 
