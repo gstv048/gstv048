@@ -8,7 +8,7 @@
 </p> -->
 
 <!-- ## I'm Gustavo Henrique Dos Santos! -->
-:computer: Systems Developer
+:computer: Web Developer
 
 :briefcase: Currently working at Ydeal Tecnologia
 
