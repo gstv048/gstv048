@@ -14,7 +14,7 @@
 
 :department_store: Co-Founder Infotecnologia Comercio e Serviços
 
-:briefcase: partner in Digi+ Technology
+:briefcase: Partner in Digi+ Technology
 
 ## About Me
 
