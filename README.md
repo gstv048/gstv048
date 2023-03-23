@@ -12,9 +12,13 @@
 
 :briefcase: Currently working at Ydeal Tecnologia
 
+:briefcase: Partner in Digi+ Technology
+
 :department_store: Co-Founder Infotecnologia Comercio e Serviços
 
-:briefcase: Partner in Digi+ Technology
+:open_book: Studying Law at Univali
+
+:open_book: Studying Computer Science at Estacio
 
 ## About Me
 
