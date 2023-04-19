@@ -83,4 +83,4 @@
 
  <h3 align="left">War against errors:</h3>
 
-<img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="500">
+<img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="400">
