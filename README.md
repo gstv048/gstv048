@@ -25,6 +25,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gstv048)](https://github.com/gstv048)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstv048//)](https://www.linkedin.com/in/gstv048/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrique27sc@gmail.com)](mailto:gustavohenrique27sc@gmail.com)
+[![Wakatime Badge](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white&link=https://wakatime.com/@gstv048)](https://wakatime.com/@gstv048)
+
 <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 
 
