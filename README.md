@@ -26,7 +26,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrique27sc@gmail.com)](mailto:gustavohenrique27sc@gmail.com)
 [![Wakatime Badge](https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime&logoColor=white&link=https://github.com/gstv048)](https://wakatime.com/@gstv048)
 <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
-![Visitors Badge](https://komarev.com/ghpvc/?username=gstv048&color=blue)
 
 <h3 align="left">Languages and Tools:</h3>
 
