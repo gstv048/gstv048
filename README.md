@@ -79,6 +79,7 @@
 
 ![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg) -->
 
-<h3 align="left">War against errors:</h3>
+
+<h3 align="left">War Against Errors:</h3>
 
 <img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="400">
