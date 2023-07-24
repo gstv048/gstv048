@@ -1,12 +1,13 @@
 <h1 align="center">Hi! 👋, I Am Gustavo Henrique</h1>
 <!-- <img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif"> -->
 
-<!-- <p disabled align="left"> 
+<!-- <p disabled align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
   <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 </p> -->
 
 <!-- ## I'm Gustavo Henrique Dos Santos! -->
+
 :computer: Web Developer Full Stack
 
 :briefcase: Currently working at Ydeal Tecnologia
@@ -59,9 +60,6 @@
   <a href="#" target="_blank" rel="noreferrer">     
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>    
     </a>
-  <a href="https://www.adobe.com/" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/800px-Photoshop_CC_icon.png" alt="photoshop" width="40" height="40"/> 
-    </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40 height="40" />
   </a>
@@ -73,7 +71,7 @@
 <!-- <h3 align="left">Wakatime Statistics:</h3>
 
 <div class="col-md-3">
-<p disabled align="left"> 
+<p disabled align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
 </p>
 </div> -->
@@ -81,7 +79,6 @@
 <!-- <h3 align="left">Snake Commit:</h3>
 
 ![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg) -->
-
 
 <h3 align="left">War Against Errors:</h3>
 
