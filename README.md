@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40 height="40" />
   </a>
     <a href="https://insomnia.rest" tittle="insomnia" target="_blank"> 
-    <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="composer" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="composer" width="40" height="40"/>
   </a>
 </p>
 
