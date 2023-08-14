@@ -68,18 +68,6 @@
   </a>
 </p>
 
-<!-- <h3 align="left">Wakatime Statistics:</h3>
-
-<div class="col-md-3">
-<p disabled align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
-</p>
-</div> -->
-
-<!-- <h3 align="left">Snake Commit:</h3>
-
-![snake gif](https://github.com/gstv048/gstv048/blob/output/github-contribution-grid-snake.svg) -->
-
 <h3 align="left">War Against Errors:</h3>
 
 <img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="400">
