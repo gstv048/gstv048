@@ -71,3 +71,8 @@
 <!-- <h3 align="left">War Against Errors:</h3>
 
 <img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="400"> -->
+
+<h3 align="left">Instagram:</h3>
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/1042240" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
