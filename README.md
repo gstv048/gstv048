@@ -68,6 +68,6 @@
   </a>
 </p>
 
-<!-- <h3 align="left">War Against Errors:</h3>
+<h3 align="left">Ouvindo:</h3>
 
-<img src="https://wallpaperaccess.com/full/2825731.gif"  width="100%" height="400"> -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbxteb4ep7zu5sculjha3mhffq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
