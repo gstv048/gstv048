@@ -28,8 +28,8 @@
 [![Wakatime Badge](https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime&logoColor=white&link=https://github.com/gstv048)](https://wakatime.com/@gstv048)
 <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 
-<h3 align="left">| Languages and Tools:</h3>
-<br>
+## Languages and Tools
+
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>    
