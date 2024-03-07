@@ -8,6 +8,8 @@
 
 <!-- ## I'm Gustavo Henrique Dos Santos! -->
 
+## About Me
+
 :computer: Web Developer Full Stack
 
 :briefcase: Currently working at Ydeal Tecnologia
