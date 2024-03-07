@@ -71,10 +71,9 @@
   </a>
 </p>
 
-<br>
+
 
 ## Listening on Spotify
-
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbxteb4ep7zu5sculjha3mhffq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
