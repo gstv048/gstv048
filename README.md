@@ -9,7 +9,7 @@
 <!-- ## I'm Gustavo Henrique Dos Santos! -->
 
 ## About Me
-
+<br>
 :computer: Web Developer Full Stack
 
 :briefcase: Currently working at Ydeal Tecnologia
@@ -29,7 +29,7 @@
 <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 
 ## Languages and Tools
-
+<br>
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>    
