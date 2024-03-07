@@ -28,7 +28,7 @@
 [![Wakatime Badge](https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime&logoColor=white&link=https://github.com/gstv048)](https://wakatime.com/@gstv048)
 <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">| Languages and Tools:</h3>
 <br>
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
@@ -69,6 +69,6 @@
   </a>
 </p>
 
-<h3 align="left">Listening on Spotify:</h3></br>
+<h3 align="left">| Listening on Spotify:</h3></br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbxteb4ep7zu5sculjha3mhffq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
