@@ -6,8 +6,6 @@
   <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 </p> -->
 
-<!-- ## I'm Gustavo Henrique Dos Santos! -->
-
 ## About Me
 <br>
 :computer: Web Developer Full Stack
