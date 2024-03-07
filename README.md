@@ -28,7 +28,9 @@
 [![Wakatime Badge](https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime&logoColor=white&link=https://github.com/gstv048)](https://wakatime.com/@gstv048)
 <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 <br>
+
 ## Languages and Tools
+
 <br>
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
@@ -68,8 +70,11 @@
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="composer" width="40" height="40"/>
   </a>
 </p>
+
 <br>
+
 ## Listening on Spotify
+
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbxteb4ep7zu5sculjha3mhffq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
