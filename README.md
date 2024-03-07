@@ -67,6 +67,6 @@
   </a>
 </p>
 
-<h3 align="left">Listening on Spotify:</h3>
-<br>
+<h3 align="left">Listening on Spotify:</h3></br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbxteb4ep7zu5sculjha3mhffq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
