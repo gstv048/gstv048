@@ -70,8 +70,10 @@
 </p>
 
 
-
+<!-- 
 ## Listening on Spotify
 <br>
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wbxteb4ep7zu5sculjha3mhffq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wbxteb4ep7zu5sculjha3mhffq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+
+-->
