@@ -17,8 +17,6 @@
 
 :department_store: Co-Founder Infotecnologia Comercio e Serviços
 
-:open_book: Studying Law at - UNIVALI
-
 :open_book: Studying Computer Science at - ESTACIO
 
 
