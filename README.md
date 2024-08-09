@@ -18,7 +18,7 @@
 :department_store: Co-Founder Infotecnologia Comercio e Serviços
 
 :open_book: Studying Computer Science at - ESTACIO
-
+:open_book: Studying Law at - UNIVALI
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstv048//)](https://www.linkedin.com/in/gstv048/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrique27sc@gmail.com)](mailto:gustavohenrique27sc@gmail.com)
