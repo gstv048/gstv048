@@ -74,3 +74,9 @@
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31knfm7nlqjy7lbn553r2fn5oiha&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31knfm7nlqjy7lbn553r2fn5oiha&redirect=true)
+
+## My Favorite Playlist
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7hLjkyL9Pz9xtQNahzJZki?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
