@@ -11,7 +11,7 @@
 
 :computer: Web Developer Full Stack
 
-:briefcase: Currently working at Ydeal Tecnologia
+:briefcase: Currently working at GH TECH SYSTEM
 
 :open_book: Studying Computer Science at - ESTACIO
 
