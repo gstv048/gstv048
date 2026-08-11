@@ -69,8 +69,7 @@
   <a href="#" tittle="Composer" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>    
   </a>
-  <a href="#" target="_blank" rel="noreferrer">     
-
+  <a href="#" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>    
     </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -80,3 +79,9 @@
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="composer" width="40" height="40"/>
   </a>
 </p> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/gstv048/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/gstv048/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/gstv048/output/snake.svg">
+</picture>
