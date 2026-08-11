@@ -1,17 +1,5 @@
  <h1 align="center">Hi! 👋, I Am Gustavo Henrique</h1>
 
-<!-- <img align="right" width="400px" src="./e84617ca70742151120affdfa77ebb2e-1.gif"> -->
-
-
-<!-- <p disabled align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gstv048&layout=compact" alt="gstv048" />
-
-  <img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
-
-</p> -->
-
-
 ## About Me
 
 <br>
@@ -23,14 +11,6 @@
 :open_book: Studying Computer Science at - ESTACIO
 
 :open_book: Studying Law at - UNIVALI
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstv048//)](https://www.linkedin.com/in/gstv048/)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavohenrique27sc@gmail.com)](mailto:gustavohenrique27sc@gmail.com)
-
-[![Wakatime Badge](https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime&logoColor=white&link=https://github.com/gstv048)](https://wakatime.com/@gstv048)
-
-<img src="https://wakatime.com/badge/user/3dd6f44c-9062-41e1-b764-c0ee928493f3.svg" alt="gstv048" />
 
 <br>
 
