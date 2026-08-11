@@ -18,7 +18,7 @@
 
 :computer: Web Developer Full Stack
 
-:briefcase: Currently working at GH TECH SYSTEM
+:briefcase: Currently working at EX SOLUÇÕES TRIBUTRÁRIAS
 
 :open_book: Studying Computer Science at - ESTACIO
 
